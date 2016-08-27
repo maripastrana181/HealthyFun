@@ -83,6 +83,62 @@
             </objects>
             <point key="canvasLocation" x="371.5" y="347.5"/>
         </scene>
+        <!--Item 2-->
+        <scene sceneID="bzA-84-DWh">
+            <objects>
+                <viewController id="wnY-To-Ct0" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Y2D-E9-Uyf"/>
+                        <viewControllerLayoutGuide type="bottom" id="9eP-ax-rYG"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Nvh-LP-v5S">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                    <tabBarItem key="tabBarItem" title="Item 2" id="Grv-27-Bvk"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="BLK-zw-dLH" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2167" y="1738"/>
+        </scene>
+        <!--Item 1-->
+        <scene sceneID="fhA-Mb-DoK">
+            <objects>
+                <viewController id="eQT-Dq-MvK" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="WsB-Sw-1CP"/>
+                        <viewControllerLayoutGuide type="bottom" id="nIJ-n7-5GP"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="jqC-hP-BsG">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                    <tabBarItem key="tabBarItem" title="Item 1" id="Ltf-a5-2d4"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="fP6-My-ids" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2167" y="1077"/>
+        </scene>
+        <!--Tab Bar Controller-->
+        <scene sceneID="IhA-zF-nXM">
+            <objects>
+                <tabBarController id="ReM-J1-V26" sceneMemberID="viewController">
+                    <tabBar key="tabBar" contentMode="scaleToFill" id="EAq-Co-2En">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="49"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    </tabBar>
+                    <connections>
+                        <segue destination="eQT-Dq-MvK" kind="relationship" relationship="viewControllers" id="Kg3-6D-dRf"/>
+                        <segue destination="wnY-To-Ct0" kind="relationship" relationship="viewControllers" id="c2P-Hq-zbV"/>
+                    </connections>
+                </tabBarController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="qQH-sI-3rN" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="764.5" y="1264.5"/>
+        </scene>
         <!--View Controller-->
         <scene sceneID="42Q-vM-wZE">
             <objects>
@@ -217,6 +273,13 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="e9V-Vb-yUp">
+                                <rect key="frame" x="154" y="591" width="67" height="30"/>
+                                <state key="normal" title="Continuar"/>
+                                <connections>
+                                    <segue destination="ReM-J1-V26" kind="presentation" id="yCj-0x-YlE"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>

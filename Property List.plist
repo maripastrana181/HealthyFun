@@ -3,52 +3,74 @@
 <plist version="1.0">
 <array>
 	<dict>
-		<key>Cereales</key>
-		<dict>
-			<key>Arroz Blanco</key>
-			<integer>354</integer>
-			<key>Arroz Integral</key>
-			<integer>350</integer>
-			<key>Avena</key>
-			<integer>367</integer>
-		</dict>
-		<key>Legumbres</key>
-		<dict>
-			<key>Garbanzos</key>
-			<integer>361</integer>
-		</dict>
+		<key>Arroz integral</key>
+		<string>350</string>
+		<key>Avena</key>
+		<string>367</string>
+		<key>Cebada</key>
+		<string>373</string>
+		<key>Centeno</key>
+		<string>350</string>
+		<key>Cereales con chocolate</key>
+		<string>358</string>
+		<key>Cereales desayuno</key>
+		<string>386</string>
+		<key>Copos de maiz</key>
+		<string>350</string>
+		<key>Harina de maíz</key>
+		<string>349</string>
+		<key>Harina de trigo integral</key>
+		<string>340</string>
+		<key>Harina de trigo refinada</key>
+		<string>353</string>
+		<key>Pan de centeno</key>
+		<string>241</string>
+		<key>Pan de trigo blanco</key>
+		<string>255</string>
+		<key>Pan de trigo integral</key>
+		<string>239</string>
+		<key>Pan de trigo molde blanco</key>
+		<string>233</string>
+		<key>Pan de trigo molde integral</key>
+		<string>216</string>
+		<key>Pasta al huevo</key>
+		<string>368</string>
+		<key>Pasta de semola</key>
+		<string>361</string>
+		<key>Polenta</key>
+		<string>358</string>
+		<key>Semola de trigo</key>
+		<string>368</string>
+		<key>Yuca</key>
+		<string>338</string>
 	</dict>
 	<dict>
-		<key>Legumbres</key>
-		<dict>
-			<key>Arvejas secas</key>
-			<integer>340</integer>
-			<key>Garbanzos</key>
-			<integer>361</integer>
-			<key>Habas secas</key>
-			<integer>343</integer>
-		</dict>
+		<key>Arvejas secas</key>
+		<string>240</string>
+		<key>Garbanzos</key>
+		<string>261</string>
+		<key>Habas secas</key>
+		<string>343</string>
+		<key>Lentejas</key>
+		<string>336</string>
+		<key>Poroto</key>
+		<string>316</string>
+		<key>Soja en grano</key>
+		<string>422</string>
 	</dict>
 	<dict>
-		<key>Huevos</key>
-		<dict>
-			<key>Clara</key>
-			<integer>48</integer>
-			<key>Huevo duro</key>
-			<integer>147</integer>
-			<key>Huevo entero</key>
-			<string>162</string>
-		</dict>
+		<key>Clara</key>
+		<string></string>
+		<key>Huevo duro </key>
+		<string></string>
+		<key>Huevo entero</key>
+		<string></string>
+		<key>Yema</key>
+		<string></string>
 	</dict>
 	<dict>
-		<key>Pasteleria</key>
-		<dict/>
 		<key>Bizcocho</key>
-		<integer>456</integer>
-		<key>Croissant chocolate</key>
-		<integer>469</integer>
-		<key>Croissant, donut</key>
-		<integer>456</integer>
+		<string></string>
 	</dict>
 </array>
 </plist>
