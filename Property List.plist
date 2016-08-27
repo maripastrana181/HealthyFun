@@ -60,16 +60,134 @@
 	</dict>
 	<dict>
 		<key>Clara</key>
-		<string></string>
+		<string>48</string>
 		<key>Huevo duro </key>
-		<string></string>
+		<string>147</string>
 		<key>Huevo entero</key>
-		<string></string>
+		<string>162</string>
 		<key>Yema</key>
-		<string></string>
+		<string>368</string>
 	</dict>
 	<dict>
 		<key>Bizcocho</key>
+		<string>456</string>
+		<key>Croissant de chocolate</key>
+		<string>469</string>
+		<key>Croissant, donut</key>
+		<string>456</string>
+		<key>Galletas de chocolate</key>
+		<string>524</string>
+		<key>Galletas de mantequilla tipo &quot;Danesas&quot;</key>
+		<string>397</string>
+		<key>Galletas saladas</key>
+		<string>464</string>
+		<key>Magdalenas</key>
+		<string>469</string>
+		<key>Pasta de hojaldre cocida</key>
+		<string>565</string>
+		<key>Pastel de manzana</key>
+		<string>311</string>
+		<key>Pastel de manza, masa hojaldre</key>
+		<string>456</string>
+		<key>Pastel de queso</key>
+		<string>414</string>
+	</dict>
+	<dict>
+		<key>Azúcar</key>
+		<string>380</string>
+		<key>Cacao en polvo con azúcar instantanea</key>
+		<string>366</string>
+		<key>Caramelos</key>
+		<string>378</string>
+		<key>Chocolate con leche</key>
+		<string>550</string>
+		<key>Chocolate sin leche</key>
+		<string>530</string>
+		<key>Crema chocolate con avellanas</key>
+		<string>549</string>
+		<key>Dulce de membrillo</key>
+		<string>215</string>
+		<key>Gomas de fruta</key>
+		<string>172</string>
+		<key>Helados de agua</key>
+		<string>139</string>
+		<key>Mermeladas con azúcar</key>
+		<string>280</string>
+		<key>Mermeladas sin azúcar</key>
+		<string>145</string>
+		<key>Miel</key>
+		<string>300</string>
+	</dict>
+	<dict>
+		<key>Aceitunas negras</key>
+		<string></string>
+		<key>Aceitunas verdes</key>
+		<string></string>
+		<key>Acelgas</key>
+		<string></string>
+		<key>Ajos</key>
+		<string></string>
+		<key>Alcachofas</key>
+		<string></string>
+		<key>Apio</key>
+		<string></string>
+		<key>Arvejas</key>
+		<string></string>
+		<key>Arvejas congeladas</key>
+		<string></string>
+		<key>Berenjena</key>
+		<string></string>
+		<key>Berros</key>
+		<string></string>
+		<key>Brocolí</key>
+		<string></string>
+		<key>Calabacín</key>
+		<string></string>
+		<key>Calabaza</key>
+		<string></string>
+		<key>Cebolla</key>
+		<string></string>
+		<key>Cebolla tierna</key>
+		<string></string>
+		<key>Champiñon y otras cetas</key>
+		<string></string>
+		<key>Chocio</key>
+		<string></string>
+		<key>Cochayuyo</key>
+		<string></string>
+		<key>Col</key>
+		<string></string>
+		<key>Col de Bruselas</key>
+		<string></string>
+		<key>Coliflor</key>
+		<string></string>
+		<key>Endibia</key>
+		<string></string>
+		<key>Escarola</key>
+		<string></string>
+		<key>Espárragos</key>
+		<string></string>
+		<key>Espárragos en lata</key>
+		<string></string>
+		<key>Espinaca</key>
+		<string></string>
+		<key>Espinaca congelada</key>
+		<string></string>
+		<key>Habas tiernas</key>
+		<string></string>
+		<key>Hinojo</key>
+		<string></string>
+		<key>Lechuga</key>
+		<string></string>
+		<key>Maíz dulce en conserva</key>
+		<string></string>
+		<key>Nabos</key>
+		<string></string>
+		<key>Papas cocidas</key>
+		<string></string>
+		<key>Pepino</key>
+		<string></string>
+		<key>Perejil</key>
 		<string></string>
 	</dict>
 </array>
