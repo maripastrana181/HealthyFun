@@ -14,6 +14,8 @@
 		9A9013BA1D72281F004ED5CD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A9013B91D72281F004ED5CD /* Assets.xcassets */; };
 		9A9013BD1D72281F004ED5CD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A9013BB1D72281F004ED5CD /* LaunchScreen.storyboard */; };
 		9A9013C51D7234FE004ED5CD /* Property List.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9A9013C41D7234FE004ED5CD /* Property List.plist */; };
+		9A9013C81D725115004ED5CD /* Usuario+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A9013C61D725115004ED5CD /* Usuario+CoreDataProperties.swift */; };
+		9A9013C91D725115004ED5CD /* Usuario.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A9013C71D725115004ED5CD /* Usuario.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		9A9013BC1D72281F004ED5CD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9A9013BE1D72281F004ED5CD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9A9013C41D7234FE004ED5CD /* Property List.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Property List.plist"; sourceTree = "<group>"; };
+		9A9013C61D725115004ED5CD /* Usuario+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Usuario+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		9A9013C71D725115004ED5CD /* Usuario.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Usuario.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +46,8 @@
 		9A9013A31D72281E004ED5CD = {
 			isa = PBXGroup;
 			children = (
+				9A9013C61D725115004ED5CD /* Usuario+CoreDataProperties.swift */,
+				9A9013C71D725115004ED5CD /* Usuario.swift */,
 				9A9013C41D7234FE004ED5CD /* Property List.plist */,
 				9A9013AE1D72281F004ED5CD /* Health */,
 				9A9013AD1D72281F004ED5CD /* Products */,
@@ -143,8 +149,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9A9013C81D725115004ED5CD /* Usuario+CoreDataProperties.swift in Sources */,
 				9A9013B21D72281F004ED5CD /* ViewController.swift in Sources */,
 				9A9013B81D72281F004ED5CD /* Health.xcdatamodeld in Sources */,
+				9A9013C91D725115004ED5CD /* Usuario.swift in Sources */,
 				9A9013B01D72281F004ED5CD /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
