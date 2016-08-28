@@ -9,7 +9,7 @@
 import UIKit
 import CoreData
 
-class RegistroViewController: UIViewController {
+class RegistroViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDelegate {
 
     @IBOutlet weak var txName: UITextField!
     @IBOutlet weak var txEdad: UITextField!
@@ -24,7 +24,10 @@ class RegistroViewController: UIViewController {
     
     @IBOutlet weak var pvActividadFisica: UIPickerView!
     
+    @IBOutlet weak var pkActividad: UIPickerView!
     var genero : String!
+    var pickerActividad = ["Sedentario","Poco activo", "Activo", "Muy activo"];
+    var opcion : String!
     
     @IBOutlet weak var segmentedControl: UISegmentedControl!
     let contexto = (UIApplication.sharedApplication().delegate as! AppDelegate).managedObjectContext
@@ -32,6 +35,8 @@ class RegistroViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
+        pkActividad.dataSource = self;
+        pkActividad.delegate = self;
         // Do any additional setup after loading the view.
     }
 
@@ -122,5 +127,24 @@ class RegistroViewController: UIViewController {
         // Pass the selected object to the new view controller.
     }
     */
+    
+    //MARK: - Delegates and data sources
+    //MARK: Data Sources
+    func numberOfComponentsInPickerView(pickerView: UIPickerView) -> Int {
+        return 1
+    }
+    func pickerView(pickerView: UIPickerView, numberOfRowsInComponent component: Int) -> Int {
+        return pickerActividad.count
+    }
+    
+    //MARK: Delegates
+    func pickerView(pickerView: UIPickerView, titleForRow row: Int, forComponent component: Int) -> String? {
+        return pickerActividad[row]
+    }
+    
+    func pickerView(pickerView: UIPickerView, didSelectRow row: Int, inComponent component: Int) {
+        opcion = pickerActividad[row]
+        
+    }
 
 }
