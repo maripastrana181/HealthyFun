@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		969DE29B1D72908900D42EA5 /* TableViewControllerPrincipal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 969DE29A1D72908900D42EA5 /* TableViewControllerPrincipal.swift */; };
+		969DE29D1D72916900D42EA5 /* NutriologosDatos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 969DE29C1D72916900D42EA5 /* NutriologosDatos.swift */; };
 		9A117FA51D7261D800EF4362 /* RegistroViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A117FA41D7261D800EF4362 /* RegistroViewController.swift */; };
 		9A117FA91D7261F000EF4362 /* QuestsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A117FA81D7261F000EF4362 /* QuestsViewController.swift */; };
 		9A117FAB1D72620900EF4362 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A117FAA1D72620900EF4362 /* HomeViewController.swift */; };
@@ -26,6 +28,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		969DE29A1D72908900D42EA5 /* TableViewControllerPrincipal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewControllerPrincipal.swift; sourceTree = "<group>"; };
+		969DE29C1D72916900D42EA5 /* NutriologosDatos.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NutriologosDatos.swift; sourceTree = "<group>"; };
 		9A117FA41D7261D800EF4362 /* RegistroViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RegistroViewController.swift; sourceTree = "<group>"; };
 		9A117FA81D7261F000EF4362 /* QuestsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuestsViewController.swift; sourceTree = "<group>"; };
 		9A117FAA1D72620900EF4362 /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +64,7 @@
 		9A9013A31D72281E004ED5CD = {
 			isa = PBXGroup;
 			children = (
+				969DE29A1D72908900D42EA5 /* TableViewControllerPrincipal.swift */,
 				9A117FB01D72688200EF4362 /* SesionTableViewController.swift */,
 				9A9013C61D725115004ED5CD /* Usuario+CoreDataProperties.swift */,
 				9A9013C71D725115004ED5CD /* Usuario.swift */,
@@ -83,6 +88,7 @@
 				9A9013AF1D72281F004ED5CD /* AppDelegate.swift */,
 				9A9013B11D72281F004ED5CD /* ViewController.swift */,
 				9A9013B31D72281F004ED5CD /* Main.storyboard */,
+				969DE29C1D72916900D42EA5 /* NutriologosDatos.swift */,
 				9A117FB21D72775D00EF4362 /* SesionViewController.swift */,
 				9A117FAC1D7263DD00EF4362 /* SesionesViewController.swift */,
 				9A117FAE1D7263E400EF4362 /* SettingsViewController.swift */,
@@ -171,6 +177,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9A9013C81D725115004ED5CD /* Usuario+CoreDataProperties.swift in Sources */,
+				969DE29D1D72916900D42EA5 /* NutriologosDatos.swift in Sources */,
 				9A117FAD1D7263DD00EF4362 /* SesionesViewController.swift in Sources */,
 				9A117FAF1D7263E400EF4362 /* SettingsViewController.swift in Sources */,
 				9A117FA91D7261F000EF4362 /* QuestsViewController.swift in Sources */,
@@ -182,6 +189,7 @@
 				9A117FB11D72688200EF4362 /* SesionTableViewController.swift in Sources */,
 				9A9013C91D725115004ED5CD /* Usuario.swift in Sources */,
 				9A9013B01D72281F004ED5CD /* AppDelegate.swift in Sources */,
+				969DE29B1D72908900D42EA5 /* TableViewControllerPrincipal.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
