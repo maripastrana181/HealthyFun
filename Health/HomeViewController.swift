@@ -10,6 +10,10 @@ import UIKit
 
 class HomeViewController: UIViewController {
 
+    @IBOutlet weak var lbnombre: UILabel!
+   
+    @IBOutlet weak var imaPet: UIImageView!
+    @IBOutlet weak var textInfo: UITextView!
     override func viewDidLoad() {
         super.viewDidLoad()
 

@@ -1,5 +1,5 @@
 //
-//  SettingsViewController.swift
+//  SesionViewController.swift
 //  Health
 //
 //  Created by Lizzy Cruz on 27/08/16.
@@ -8,20 +8,16 @@
 
 import UIKit
 
-class SettingsViewController: UIViewController {
+class SesionViewController: UIViewController {
 
-    @IBOutlet weak var txEdad: UITextField!
-    @IBOutlet weak var txAltura: UITextField!
-    @IBOutlet weak var txPeso: UITextField!
-    @IBOutlet weak var scGenero: UISegmentedControl!
+    @IBOutlet weak var txIBM: UITextField!
     
-    @IBOutlet weak var pvActividad: UIPickerView!
-    
-    @IBOutlet weak var imaPerro: UIImageView!
-    @IBOutlet weak var imaGato: UIImageView!
-    @IBOutlet weak var imaDragon: UIImageView!
-    @IBOutlet weak var btActualizar: UIButton!
+    @IBOutlet weak var txEER: UITextField!
+    @IBOutlet weak var textibm: UITextView!
+    @IBOutlet weak var texteer: UITextView!
+    @IBOutlet weak var btcontinuar: UIButton!
     override func viewDidLoad() {
+        
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
