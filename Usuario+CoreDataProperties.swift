@@ -16,6 +16,7 @@ extension Usuario {
 
     @NSManaged var actividadfisica: NSNumber
     @NSManaged var bmi: NSNumber
+    @NSManaged var contrasena: String
     @NSManaged var edad: NSNumber
     @NSManaged var eer: NSNumber
     @NSManaged var estatura: NSNumber
@@ -23,6 +24,6 @@ extension Usuario {
     @NSManaged var peso: NSNumber
     @NSManaged var sexo: NSNumber
     @NSManaged var usuario: String
-    @NSManaged var contrasena: String
+    @NSManaged var email: String
 
 }
