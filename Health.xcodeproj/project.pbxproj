@@ -13,6 +13,7 @@
 		9A117FAD1D7263DD00EF4362 /* SesionesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A117FAC1D7263DD00EF4362 /* SesionesViewController.swift */; };
 		9A117FAF1D7263E400EF4362 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A117FAE1D7263E400EF4362 /* SettingsViewController.swift */; };
 		9A117FB11D72688200EF4362 /* SesionTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A117FB01D72688200EF4362 /* SesionTableViewController.swift */; };
+		9A117FB31D72775D00EF4362 /* SesionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A117FB21D72775D00EF4362 /* SesionViewController.swift */; };
 		9A9013B01D72281F004ED5CD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A9013AF1D72281F004ED5CD /* AppDelegate.swift */; };
 		9A9013B21D72281F004ED5CD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A9013B11D72281F004ED5CD /* ViewController.swift */; };
 		9A9013B51D72281F004ED5CD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A9013B31D72281F004ED5CD /* Main.storyboard */; };
@@ -31,6 +32,7 @@
 		9A117FAC1D7263DD00EF4362 /* SesionesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SesionesViewController.swift; sourceTree = "<group>"; };
 		9A117FAE1D7263E400EF4362 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		9A117FB01D72688200EF4362 /* SesionTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SesionTableViewController.swift; sourceTree = "<group>"; };
+		9A117FB21D72775D00EF4362 /* SesionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SesionViewController.swift; sourceTree = "<group>"; };
 		9A9013AC1D72281F004ED5CD /* Health.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Health.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A9013AF1D72281F004ED5CD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9A9013B11D72281F004ED5CD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 				9A9013AF1D72281F004ED5CD /* AppDelegate.swift */,
 				9A9013B11D72281F004ED5CD /* ViewController.swift */,
 				9A9013B31D72281F004ED5CD /* Main.storyboard */,
+				9A117FB21D72775D00EF4362 /* SesionViewController.swift */,
 				9A117FAC1D7263DD00EF4362 /* SesionesViewController.swift */,
 				9A117FAE1D7263E400EF4362 /* SettingsViewController.swift */,
 				9A9013B91D72281F004ED5CD /* Assets.xcassets */,
@@ -172,6 +175,7 @@
 				9A117FAF1D7263E400EF4362 /* SettingsViewController.swift in Sources */,
 				9A117FA91D7261F000EF4362 /* QuestsViewController.swift in Sources */,
 				9A117FA51D7261D800EF4362 /* RegistroViewController.swift in Sources */,
+				9A117FB31D72775D00EF4362 /* SesionViewController.swift in Sources */,
 				9A9013B21D72281F004ED5CD /* ViewController.swift in Sources */,
 				9A9013B81D72281F004ED5CD /* Health.xcdatamodeld in Sources */,
 				9A117FAB1D72620900EF4362 /* HomeViewController.swift in Sources */,
