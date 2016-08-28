@@ -592,5 +592,195 @@ Butifarra</key>
 		<key>Trucha</key>
 		<string>94</string>
 	</dict>
+	<dict>
+		<key>Agua ardiente	</key>
+		<string>280</string>
+		<key>Agua tónica	</key>
+		<string>34</string>
+		<key>Anís	</key>
+		<string>312</string>
+		<key>Batido lácteo de cacao	</key>
+		<string>100</string>
+		<key>Cacao en polvo sin azúcar a la taza	</key>
+		<string>439</string>
+		<key>Café</key>
+		<string>1</string>
+		<key>Cerveza negra	</key>
+		<string>37</string>
+		<key>Cerveza rubia	</key>
+		<string>45</string>
+		<key>Champaña demi-sec	</key>
+		<string>90</string>
+		<key>Champaña dulce	</key>
+		<string>118</string>
+		<key>Champaña seca	</key>
+		<string>85
+</string>
+		<key>Coñac, brandy	</key>
+		<string>243</string>
+		<key>Crema de cacao	</key>
+		<string>260</string>
+		<key>Daiquiri</key>
+		<string>122</string>
+		<key>Gin &amp; Tónica	</key>
+		<string>76</string>
+		<key>Ginebra</key>
+		<string>244</string>
+		<key>Leche de almendras	</key>
+		<string>335</string>
+		<key>Licor de caña	</key>
+		<string>273 </string>
+		<key>Piña colada	</key>
+		<string>194</string>
+		<key>Pisco</key>
+		<string>210</string>
+		<key>Refrescos carbonatados	</key>
+		<string>48</string>
+		<key>Ron	</key>
+		<string>244</string>
+		<key>Sidra dulce	</key>
+		<string>33</string>
+		<key>Sidra seca	</key>
+		<string>35</string>
+		<key>Té	</key>
+		<string>1</string>
+		<key>Vermouth amargo	</key>
+		<string>112</string>
+		<key>Vermouth dulce	</key>
+		<string>160</string>
+		<key>Vino de mesa	</key>
+		<string>70</string>
+		<key>Vino dulce, jerez	</key>
+		<string>160</string>
+		<key>Vino oporto	</key>
+		<string>160</string>
+		<key>Vodka</key>
+		<string>315</string>
+		<key>Whisky	</key>
+		<string>244</string>
+	</dict>
+	<dict>
+		<key>Barra de chocolate	</key>
+		<string>441</string>
+		<key>Maíz, palomitas	</key>
+		<string>592</string>
+		<key>Maíz, tiras fritas	</key>
+		<string>459</string>
+		<key>Papas fritas</key>
+		<string>544</string>
+	</dict>
+	<dict>
+		<key>Aceite de girasol	</key>
+		<string>900
+</string>
+		<key>Aceite de maíz	</key>
+		<string>900</string>
+		<key>Aceite de maní	</key>
+		<string>900</string>
+		<key>Aceite de oliva	</key>
+		<string>900</string>
+		<key>Aceite de soja	</key>
+		<string>900</string>
+		<key>Manteca</key>
+		<string>670</string>
+		<key>Mantequilla</key>
+		<string>752</string>
+		<key>Margarina vegetal	</key>
+		<string>752</string>
+	</dict>
+	<dict>
+		<key>Bechamel</key>
+		<string>115</string>
+		<key>Caldos concentrados	</key>
+		<string>259</string>
+		<key>Ketchup</key>
+		<string>98</string>
+		<key>Mayonesa</key>
+		<string>718</string>
+		<key>Mayonesa light	</key>
+		<string>374</string>
+		<key>Mostaza</key>
+		<string>15</string>
+		<key>Salsa de soja	</key>
+		<string>61</string>
+		<key>Salsa de tomate en conserva	</key>
+		<string>86</string>
+		<key>Salsa golf	</key>
+		<string>640</string>
+		<key>Sofrito</key>
+		<string>116</string>
+		<key>Vinagres</key>
+		<string>8
+</string>
+	</dict>
+	<dict>
+		<key>Arroz con leche	</key>
+		<string>123</string>
+		<key>Babaroise</key>
+		<string>149</string>
+		<key>Berlín</key>
+		<string>588</string>
+		<key>Brazo de reina	</key>
+		<string>150</string>
+		<key>Buñuelos</key>
+		<string>123</string>
+		<key>Canapé</key>
+		<string>234</string>
+		<key>Canelones</key>
+		<string>127</string>
+		<key>Churros</key>
+		<string>348</string>
+		<key>Compota de frutas	</key>
+		<string>90</string>
+		<key>Croquetas</key>
+		<string>123</string>
+		<key>Durazno en conserva	</key>
+		<string>79</string>
+		<key>Empanada de atún	</key>
+		<string>243</string>
+		<key>Jalea sola	</key>
+		<string>30</string>
+		<key>Jamón y queso apanados	</key>
+		<string>214</string>
+		<key>Lasaña</key>
+		<string>147</string>
+		<key>Leche asada	</key>
+		<string>145</string>
+		<key>Leche nevada	</key>
+		<string>120
+</string>
+		<key>Manzana asada	</key>
+		<string>157</string>
+		<key>Mote con huesillos	</key>
+		<string>221</string>
+		<key>Ñoquis de papa	</key>
+		<string>246</string>
+		<key>Panqueque con manjar	</key>
+		<string>219</string>
+		<key>Pescado apanado	</key>
+		<string>178</string>
+		<key>Pie de limón	</key>
+		<string>298</string>
+		<key>Pizza</key>
+		<string>234</string>
+		<key>Pollo apanado	</key>
+		<string>283</string>
+		<key>Ravioles de carne y jamón	</key>
+		<string>253</string>
+		<key>Rollos primavera	</key>
+		<string>258</string>
+		<key>Sémola con leche	</key>
+		<string>130</string>
+		<key>Sopaipillas pasadas	</key>
+		<string>190</string>
+		<key>Sopas de sobre	</key>
+		<string>49</string>
+		<key>Torta mil hojas	</key>
+		<string>379</string>
+		<key>Tortilla de papa	</key>
+		<string>194</string>
+		<key>Tutti fruti	</key>
+		<string>185</string>
+	</dict>
 </array>
 </plist>
