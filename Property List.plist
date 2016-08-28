@@ -3,14 +3,6 @@
 <plist version="1.0">
 <array>
 	<dict>
-		<key>Almejas</key>
-		<string></string>
-		<key>Anchoas</key>
-		<string></string>
-		<key>Anguilas</key>
-		<string></string>
-	</dict>
-	<dict>
 		<key>Arroz integral</key>
 		<string>350</string>
 		<key>Avena</key>
@@ -517,6 +509,88 @@ Butifarra</key>
 		<string>100</string>
 		<key>Vacuno, Hígado	</key>
 		<string>129</string>
+	</dict>
+	<dict>
+		<key>Almejas</key>
+		<string>50</string>
+		<key>Anchoas</key>
+		<string>175</string>
+		<key>Anguilas</key>
+		<string>200</string>
+		<key>Arenque ahumado	</key>
+		<string>209</string>
+		<key>Arenque seco	</key>
+		<string>122</string>
+		<key>Atún en lata con aceite vegetal	</key>
+		<string>280</string>
+		<key>Atún en lata con agua	</key>
+		<string>127</string>
+		<key>Atún fresco	</key>
+		<string>225</string>
+		<key>Bacalao fresco	</key>
+		<string>74</string>
+		<key>Bacalao salado remojado	</key>
+		<string>108</string>
+		<key>Bacalao seco	</key>
+		<string>322</string>
+		<key>Besugo</key>
+		<string>118</string>
+		<key>Caballa</key>
+		<string>153</string>
+		<key>Calamar	</key>
+		<string>82</string>
+		<key>Cangrejo</key>
+		<string>85</string>
+		<key>Caviar</key>
+		<string>233</string>
+		<key>Congrio</key>
+		<string>112</string>
+		<key>Dorada</key>
+		<string>80</string>
+		<key>Gallo	</key>
+		<string>73</string>
+		<key>Gambas</key>
+		<string>96</string>
+		<key>Kani-Kama	</key>
+		<string>80</string>
+		<key>Langosta</key>
+		<string>67</string>
+		<key>Langostino</key>
+		<string>96</string>
+		<key>Lenguado</key>
+		<string>73</string>
+		<key>Lubina</key>
+		<string>118</string>
+		<key>Lucio</key>
+		<string>81</string>
+		<key>Mejillón</key>
+		<string>74</string>
+		<key>Merluza</key>
+		<string>86</string>
+		<key>Mero</key>
+		<string>118</string>
+		<key>Ostras</key>
+		<string>80</string>
+		<key>Pejerrey</key>
+		<string>87</string>
+		<key>Pez espada	</key>
+		<string>109</string>
+		<key>Pulpo	</key>
+		<string>57</string>
+		<key>Rodaballo	</key>
+		<string>81</string>
+		<key>Salmón	</key>
+		<string>172</string>
+		<key>Salmón ahumado	</key>
+		<string>154</string>
+		<key>Salmonete</key>
+		<string>97</string>
+		<key>Sardina en lata con aceite vegetal	</key>
+		<string>192</string>
+		<key>Sardinas	</key>
+		<string>151</string>
+		<key>Trucha</key>
+		<string>94</string>
 	</dict>
 </array>
 </plist>
