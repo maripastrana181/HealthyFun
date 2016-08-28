@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<model name="Test1.xcdatamodel" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="1" systemVersion="11A491" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
-    <elements/>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10171" systemVersion="15E65" minimumToolsVersion="Automatic">
+    <entity name="Usuario" representedClassName=".Usuario" syncable="YES">
+        <attribute name="actividadfisica" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="bmi" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="edad" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="eer" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="estatura" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="idper" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="peso" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="sexo" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Usuario" positionX="-63" positionY="-18" width="128" height="165"/>
+    </elements>
 </model>
