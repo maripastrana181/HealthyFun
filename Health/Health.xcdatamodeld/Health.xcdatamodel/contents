@@ -3,14 +3,16 @@
     <entity name="Usuario" representedClassName=".Usuario" syncable="YES">
         <attribute name="actividadfisica" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
         <attribute name="bmi" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="contrasena" attributeType="String" syncable="YES"/>
         <attribute name="edad" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
         <attribute name="eer" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
         <attribute name="estatura" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
         <attribute name="idper" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
         <attribute name="peso" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
         <attribute name="sexo" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="usuario" attributeType="String" syncable="YES"/>
     </entity>
     <elements>
-        <element name="Usuario" positionX="-63" positionY="-18" width="128" height="165"/>
+        <element name="Usuario" positionX="-63" positionY="-18" width="128" height="195"/>
     </elements>
 </model>

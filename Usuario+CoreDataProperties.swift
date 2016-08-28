@@ -14,13 +14,15 @@ import CoreData
 
 extension Usuario {
 
-    @NSManaged var sexo: NSNumber
-    @NSManaged var edad: NSNumber
-    @NSManaged var peso: NSNumber
-    @NSManaged var estatura: NSNumber
-    @NSManaged var bmi: NSNumber
     @NSManaged var actividadfisica: NSNumber
+    @NSManaged var bmi: NSNumber
+    @NSManaged var edad: NSNumber
     @NSManaged var eer: NSNumber
+    @NSManaged var estatura: NSNumber
     @NSManaged var idper: NSNumber
+    @NSManaged var peso: NSNumber
+    @NSManaged var sexo: NSNumber
+    @NSManaged var usuario: String
+    @NSManaged var contrasena: String
 
 }
